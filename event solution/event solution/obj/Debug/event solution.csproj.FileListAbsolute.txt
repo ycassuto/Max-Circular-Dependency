@@ -1,0 +1,7 @@
+C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\event solution\event solution\bin\Debug\event solution.exe.config
+C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\event solution\event solution\bin\Debug\event solution.exe
+C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\event solution\event solution\bin\Debug\event solution.pdb
+C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\event solution\event solution\obj\Debug\event solution.csproj.AssemblyReference.cache
+C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\event solution\event solution\obj\Debug\event solution.csproj.CoreCompileInputs.cache
+C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\event solution\event solution\obj\Debug\event solution.exe
+C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\event solution\event solution\obj\Debug\event solution.pdb
