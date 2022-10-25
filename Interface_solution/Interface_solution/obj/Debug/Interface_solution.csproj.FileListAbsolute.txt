@@ -1,6 +1,0 @@
-C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\Interface_solution\Interface_solution\bin\Debug\Interface_solution.exe.config
-C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\Interface_solution\Interface_solution\bin\Debug\Interface_solution.exe
-C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\Interface_solution\Interface_solution\bin\Debug\Interface_solution.pdb
-C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\Interface_solution\Interface_solution\obj\Debug\Interface_solution.csproj.CoreCompileInputs.cache
-C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\Interface_solution\Interface_solution\obj\Debug\Interface_solution.exe
-C:\Users\ycass\OneDrive\שולחן העבודה\Max-Circular-Dependency\Interface_solution\Interface_solution\obj\Debug\Interface_solution.pdb
