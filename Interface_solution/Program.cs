@@ -21,7 +21,7 @@ namespace Interface_solution
 
         public void CallEmployees()
         {
-            Console.WriteLine("call the emploies");
+            Console.WriteLine("call the employees");
         }
     }
 
