@@ -21,7 +21,7 @@ namespace event_solution
 
         public void CallEmployees()
         {
-            Console.WriteLine("call the emploies");
+            Console.WriteLine("call the employees");
         }
 
         private void SubscribeToEvent()
